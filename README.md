@@ -85,6 +85,6 @@ docker run --name containers02 containers02
 В ходе работы я освоил установку Docker Desktop, научился создавать и запускать контейнеры на основе Dockerfile, а также проверил их работоспособность. Задание помогло подготовить среду для дальнейшей работы с контейнерами.
 
 # Используемые источники.
-
+- [www.docker.com](https://www.docker.com/products/docker-desktop/)
 - [github.com/mcroitor/app_containerization_ru](https://github.com/mcroitor/app_containerization_ru)
 - [grok.com](https://grok.com/)
