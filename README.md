@@ -14,7 +14,7 @@
 
 Скачал и установил Docker Desktop.
 
-<img src="/images/Screenshot_8.png" style="WIDTH: 60vw">
+<img src="/images/Screenshot_8.png" style="WIDTH: 30vw">
 
 <!-- ![](images/Screenshot_8.png) -->
 
