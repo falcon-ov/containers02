@@ -86,5 +86,5 @@ docker run --name containers02 containers02
 
 # Используемые источники.
 
-[github.com/mcroitor/app_containerization_ru](https://github.com/mcroitor/app_containerization_ru)
-[grok.com](https://grok.com/)
+- [github.com/mcroitor/app_containerization_ru](https://github.com/mcroitor/app_containerization_ru)
+- [grok.com](https://grok.com/)
